@@ -61,7 +61,7 @@ Stack-specific judgment calls (e.g., "use this ORM, not that one") should be def
 ## Related
 
 - [llmapi-pro/claude-code-setup](https://github.com/llmapi-pro/claude-code-setup) — One-line installer for Claude Code with the LLM API relay backend.
-- [llmapi-pro/awesome-claude-code](https://github.com/llmapi-pro/awesome-claude-code) — Curated resources for Claude Code users.
+- [llmapi-pro/awesome-claude-code-china](https://github.com/llmapi-pro/awesome-claude-code-china) — Curated Claude Code resources for Chinese developers.
 
 ## License
 
